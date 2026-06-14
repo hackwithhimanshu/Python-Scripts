@@ -31,11 +31,3 @@ This repository contains various sub-projects. Here is an overview of what each 
 
 ---
 
-## 🛠️ Prerequisites & Installation
-
-To run these scripts, you will need **Python 3.x** installed on your system. Depending on the script, you might also need specific third-party libraries (like `scapy`, `requests`, `beautifulsoup4`, etc.).
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/hackwithhimanshu/Python-Scripts.git](https://github.com/hackwithhimanshu/Python-Scripts.git)
-   cd Python-Scripts
